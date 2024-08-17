@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aisha Beverly Ahmed
+- 👋 Hi, I’m Aisha Beverly
 - 👀 I’m interested in AI and wed development
 - 🌱 I’m currently learning wed development
 - 💞️ I’m looking to collaborate on ...
